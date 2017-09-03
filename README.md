@@ -4,6 +4,8 @@
 
 How to find this card component? => [Adem Ilter - Like App Store](https://github.com/ademilter/like-app-store/)
 
+![screenshot](static/screenshot.png)
+
 ## Build Setup
 
 ``` bash
